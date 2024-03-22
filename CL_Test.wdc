@@ -19,6 +19,7 @@ class :
       	sTest est une chaine
       	sTest2 est une chaine
       	sTest3 est une chaine
+      	sTest4 est une chaine
       fin
      type : 131072
   procedures :
