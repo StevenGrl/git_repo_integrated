@@ -17,6 +17,7 @@ class :
      code : |1+
       CL_Test est une Classe
       	sTest est une chaine
+      	sTest2 est une chaine
       fin
      type : 131072
   procedures :
